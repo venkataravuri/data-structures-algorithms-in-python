@@ -1,10 +1,35 @@
-# Data Structures and Algorithms in Python
-A repisitory of datastructures &amp; algorithms implementation in python language.
+# Programming, Data Structures and Algorithms
+A repisitory of programming design patterns, data structures &amp; algorithms implementation in python language.
+
+## Data Structures and Algorithms in Python
+
+- Graph Algorithms
+- String Algorithms
 
 
-### Heap
-- [Heap: Practice Problems and Interview Questions](https://medium.com/techie-delight/heap-practice-problems-and-interview-questions-b678ff3b694c)
-- [Learning Heaps with Python](https://medium.com/@kumaraswanth/learning-heaps-with-python-2a8b8cc734f8)
+## OOPS Concepts
 
-https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+[Object Oriented Programming Paradigm](programming/oops-programing-paradigms.md)
+
+## Design Patterns
+
+[Design Patterns](design-patterns.md)
+
+## Java
+
+Java Articles
+
+## Python
+
+[Python](programming/python.md)
+
+### Pythonic
+
+#### What is Pythonic?
+
+Exploiting the features of the Python language to produce code that is clear, concise and maintainable.
+
+- Pandas
+- FastAPI
+- SQLAlchamey
 
